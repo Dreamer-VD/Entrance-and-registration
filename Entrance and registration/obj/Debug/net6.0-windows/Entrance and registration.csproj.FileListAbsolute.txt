@@ -1,0 +1,23 @@
+E:\Praktiks\Pogorelov\Entrance and registration\Entrance and registration\bin\Debug\net6.0-windows\Entrance and registration.exe
+E:\Praktiks\Pogorelov\Entrance and registration\Entrance and registration\bin\Debug\net6.0-windows\Entrance and registration.deps.json
+E:\Praktiks\Pogorelov\Entrance and registration\Entrance and registration\bin\Debug\net6.0-windows\Entrance and registration.runtimeconfig.json
+E:\Praktiks\Pogorelov\Entrance and registration\Entrance and registration\bin\Debug\net6.0-windows\Entrance and registration.dll
+E:\Praktiks\Pogorelov\Entrance and registration\Entrance and registration\bin\Debug\net6.0-windows\Entrance and registration.pdb
+E:\Praktiks\Pogorelov\Entrance and registration\Entrance and registration\obj\Debug\net6.0-windows\Entrance and registration.csproj.AssemblyReference.cache
+E:\Praktiks\Pogorelov\Entrance and registration\Entrance and registration\obj\Debug\net6.0-windows\App.g.cs
+E:\Praktiks\Pogorelov\Entrance and registration\Entrance and registration\obj\Debug\net6.0-windows\Entrance and registration_MarkupCompile.cache
+E:\Praktiks\Pogorelov\Entrance and registration\Entrance and registration\obj\Debug\net6.0-windows\Entrance and registration_MarkupCompile.lref
+E:\Praktiks\Pogorelov\Entrance and registration\Entrance and registration\obj\Debug\net6.0-windows\Entrance and registration.g.resources
+E:\Praktiks\Pogorelov\Entrance and registration\Entrance and registration\obj\Debug\net6.0-windows\Entrance and registration.GeneratedMSBuildEditorConfig.editorconfig
+E:\Praktiks\Pogorelov\Entrance and registration\Entrance and registration\obj\Debug\net6.0-windows\Entrance and registration.AssemblyInfoInputs.cache
+E:\Praktiks\Pogorelov\Entrance and registration\Entrance and registration\obj\Debug\net6.0-windows\Entrance and registration.AssemblyInfo.cs
+E:\Praktiks\Pogorelov\Entrance and registration\Entrance and registration\obj\Debug\net6.0-windows\Entrance and registration.csproj.CoreCompileInputs.cache
+E:\Praktiks\Pogorelov\Entrance and registration\Entrance and registration\obj\Debug\net6.0-windows\Entrance and registration.dll
+E:\Praktiks\Pogorelov\Entrance and registration\Entrance and registration\obj\Debug\net6.0-windows\refint\Entrance and registration.dll
+E:\Praktiks\Pogorelov\Entrance and registration\Entrance and registration\obj\Debug\net6.0-windows\Entrance and registration.pdb
+E:\Praktiks\Pogorelov\Entrance and registration\Entrance and registration\obj\Debug\net6.0-windows\Entrance and registration.genruntimeconfig.cache
+E:\Praktiks\Pogorelov\Entrance and registration\Entrance and registration\obj\Debug\net6.0-windows\ref\Entrance and registration.dll
+E:\Praktiks\Pogorelov\Entrance and registration\Entrance and registration\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+E:\Praktiks\Pogorelov\Entrance and registration\Entrance and registration\obj\Debug\net6.0-windows\View\registration.g.cs
+E:\Praktiks\Pogorelov\Entrance and registration\Entrance and registration\obj\Debug\net6.0-windows\View\MainWindow.baml
+E:\Praktiks\Pogorelov\Entrance and registration\Entrance and registration\obj\Debug\net6.0-windows\View\registration.baml
